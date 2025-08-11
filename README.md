@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# DMH Details!
+A practical damage meter plugin for Old School RuneScape.

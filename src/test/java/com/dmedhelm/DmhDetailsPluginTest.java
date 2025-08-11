@@ -1,13 +1,13 @@
-package com.example;
+package com.dmedhelm;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;
 
-public class ExamplePluginTest
+public class DmhDetailsPluginTest
 {
 	public static void main(String[] args) throws Exception
 	{
-		ExternalPluginManager.loadBuiltin(ExamplePlugin.class);
+		ExternalPluginManager.loadBuiltin(DmhDetailsPlugin.class);
 		RuneLite.main(args);
 	}
 }
